@@ -1,4 +1,6 @@
 <div align="center">
     <img src="./img/icon.png" style="width: 200px;">
-    <h2>Welcome to my profile!</h2>
 </div>
+
+# 👋 Hey! I'm **v0id**!
+(as you can see) I'm still working on my profile README
